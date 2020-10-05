@@ -1,0 +1,4 @@
+PRODUCT:
+  - ID: 1
+    NAME: Product One
+    VALUE: 123.45
