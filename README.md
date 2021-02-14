@@ -38,9 +38,9 @@
 - https://www.testcontainers.org/modules/databases/mysql/
 
 ## SPECIAL THANKS TO 
-* Platform : [Udemy](https://www.udemy.com/) 
-* Course : [Desenvolvimento Web com Quarkus - Básico](https://www.udemy.com/course/des-web-quarkus-basico/learn/lecture/17847294)
-* Instructor : [Vinícius Ferraz Campos Florentino](https://github.com/viniciusfcf)
+* [Desenvolvimento Web com Quarkus - Básico](https://www.udemy.com/course/des-web-quarkus-basico/learn/lecture/17847294)
+* [Vinícius Ferraz Campos Florentino](https://github.com/viniciusfcf)
+* [Udemy](https://www.udemy.com/) 
 
 ---
 ---
